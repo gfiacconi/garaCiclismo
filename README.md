@@ -1,2 +1,2 @@
 # garaCiclismo 🚴‍♂️ ⛰ 🥇
-a database project to control with slack 
+A database project to control with slack 
