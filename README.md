@@ -1,5 +1,5 @@
 # garaCiclismo 🚴‍♂️ ⛰ 🥇
-- A database project to control with slack 
+- A database project to control with Flask 
 
 ### First Step 🌐
 - download xampp:\
