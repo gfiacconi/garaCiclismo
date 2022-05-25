@@ -1,7 +1,7 @@
 # garaCiclismo 🚴‍♂️ ⛰ 🥇
 A database project to control with slack 
 
-#*** First Step ***
+#FIRST STEP
 download xampp:
 https://www.apachefriends.org/download.html
 
